@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.img-principala {
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+}
+.btn-honey{
+position: absolute;
+top: 50%;
+left: 15%;
+background-color: #FFC107;
+}
+.btn-coffee{
+position: absolute;
+top: 50%;
+right: 15%;
+background-color: #653208;
+}
+.text-titlu{
+position: absolute;
+top: 10%;
+right: 50%;
+font-size: large;
+
+}
