@@ -52,7 +52,7 @@ body {
     right: 0;
 }
 .carousel-item > img{
-    height: 200px;
+    height: 700px;
     object-fit: cover;
     object-position: center;
 }
