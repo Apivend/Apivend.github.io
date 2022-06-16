@@ -52,7 +52,48 @@ body {
     right: 0;
 }
 .carousel-item > img{
-    height: 700px;
+    height: 725px;
     object-fit: cover;
+    object-position: center;
+}
+.text-produse {
+    position:relative;
+    margin-left: 0px;
+    background-color: #fce49f;
+
+}
+.fundal-mieresalc {
+    background-color: #e7b624;
+}
+.fundal-sectiune {
+    background-color: rgb(241, 195, 139);
+}
+.fundal-produs {
+    background-color: #8d5734ec;
+    margin: 0px;
+}
+.fundal-miere {
+    background-color: #fce49f;
+}
+.img-honey {
+    height: 400px;
+    object-fit: cover;
+}
+.img-coffee {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+.news-image {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+.news-image > img {
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+}
+.form {
     object-position: center;
 }
